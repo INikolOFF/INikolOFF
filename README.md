@@ -32,7 +32,7 @@ I'm using Python to build cool projects and solve real problems.
 
 ### GitHub Stats
 
-![GitHub Stats](https://readme-stats-fork-mauve.vercel.app/api?username=INikolOFF&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://readme-stats-fork-mauve.vercel.app/api?username=INikolOFF&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ![Top Languages](https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=INikolOFF&layout=compact&theme=dark&hide_border=true)
 

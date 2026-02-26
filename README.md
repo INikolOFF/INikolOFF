@@ -34,6 +34,3 @@ I'm using Python to build cool projects and solve real problems.
 
 ![Metrics](https://raw.githubusercontent.com/INikolOFF/INikolOFF/main/metrics.svg)
 
-### Fun fact
-
-I always have a new project idea before I finish the current one.

@@ -32,7 +32,8 @@ I'm using Python to build cool projects and solve real problems.
 
 ### GitHub Stats
 
-![GitHub Stats](https://i-nikol-off.vercel.app/api?username=INikolOFF&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Metrics](https://raw.githubusercontent.com/INikolOFF/INikolOFF/main/metrics.svg)
 
-![Top Languages](https://i-nikol-off.vercel.app/api/top-langs/?username=INikolOFF&layout=compact&theme=dark&hide_border=true)
+### Fun fact
 
+I always have a new project idea before I finish the current one.

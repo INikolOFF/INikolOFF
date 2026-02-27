@@ -11,9 +11,6 @@ I'm using <img src="https://img.shields.io/badge/python-3670A0?style=for-the-bad
 
 ### Projects
 
-**[FileManager](https://github.com/INikolOFF/FileManager)**
-A desktop file manager built with Python and Tkinter that started as a simple beginner project and evolved into a full security system. Features SHA-256 password hashing, Fernet encryption, brute-force protection, smart trash recovery, and comprehensive audit logging.
-
 **[YouTube-DownloaderX](https://github.com/INikolOFF/YouTube-DownloaderX)**
 A cross-platform Python tool for downloading YouTube videos in the highest available quality (up to 4K). Features a Matrix-themed web interface built with Flask, real-time progress tracking, SHA-256 duplicate detection, playlist support, and multiple audio/video format options.
 
